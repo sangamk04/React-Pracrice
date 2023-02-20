@@ -3,7 +3,6 @@ import {useState} from 'react';
 
 const Hover4 = () => {
     const [isHovering, setIsHovering] = useState(false);
-
     const handleMouseOver = () => {
       setIsHovering(true);
     };
