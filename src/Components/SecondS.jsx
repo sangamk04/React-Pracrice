@@ -4,6 +4,7 @@ const SecondS = () => {
     // function Counter() {
         let n =0;
         
+    
         function increment(){
           n = n + 1;
           console.log(n)
