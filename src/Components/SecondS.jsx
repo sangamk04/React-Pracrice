@@ -2,8 +2,7 @@ import React from 'react'
 
 const SecondS = () => {
     // function Counter() {
-        let n =0;
-    
+        let n =0;    
     
         function increment(){
           n = n + 1;
