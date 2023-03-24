@@ -1,7 +1,6 @@
 import React,{useState} from 'react'
 
 const Todo = () => {
-
     
     const [add , setAdd] =useState('');
     const [data , setData]= useState([])
