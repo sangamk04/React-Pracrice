@@ -7,6 +7,7 @@ const Hover2 = () => {
     const handleMouseOver = () => {
       setIsHovering(true);
     };
+    
   
     const handleMouseOut = () => {
       setIsHovering(false);
