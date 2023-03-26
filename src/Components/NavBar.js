@@ -7,6 +7,7 @@ function NavBar() {
 
   const handleClick = () => setClick(!click);
   return (
+    
     <>
       <nav className="navbar">
         <div className="nav-container">
