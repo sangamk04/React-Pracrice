@@ -9,7 +9,6 @@
 //       setCount(e.target.value);
 //       console.log(count);
 //     };
-
   
 //     const handleaddNumber2 = (e) => {
 //       setCount2(e.target.value);
