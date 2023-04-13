@@ -9,7 +9,6 @@ import {
     useBreakpointValue,
   } from '@chakra-ui/react';
 
-
 const Card2 = () => {
   return (
     <Stack minH={'100vh'} direction={{ base: 'column', md: 'row' }}>
