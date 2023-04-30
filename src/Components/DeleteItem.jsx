@@ -18,4 +18,4 @@ const DeleteItem = (props) => {
 }
 
 
-export default DeleteItem
+export default DeleteItem;
